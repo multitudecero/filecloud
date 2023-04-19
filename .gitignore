@@ -1,1 +1,5 @@
 node/
+cfggen/cfggen
+cloudclient/cloudclient
+filenode/filenode
+nodeorc/nodeorc
